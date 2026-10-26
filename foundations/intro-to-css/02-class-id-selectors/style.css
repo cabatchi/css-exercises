@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+p {
+    background-color: rgb(235, 168, 167);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#two {
+    color: rgb(76, 76, 255);
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(128, 255, 128);
+    font-size: 24px;
+    font-weight: bold;
+}
